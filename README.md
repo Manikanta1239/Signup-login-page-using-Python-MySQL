@@ -1,6 +1,8 @@
 # Signup & login page using Python & MySQL
 It's a GUI project using python tkinter and MySQL database.
 
+Install and import all requried modules like credentials, pymysql, os.
+
 Steps to follow after installing all the modules. Otherwise this application will not work properly.
 
 ->Create a database with this name, "student_database"
