@@ -80,5 +80,5 @@ python main.py
 ---
 
 ## 🏆 Author & Credits  
-Developed by **[Manikanta1239]**. Feel free to modify and improve the project! 🚀  
+Developed by **Manikanta1239**. Feel free to modify and improve the project! 🚀  
 
